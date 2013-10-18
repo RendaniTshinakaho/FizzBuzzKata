@@ -1,0 +1,9 @@
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\bin\Debug\Domain.Test.dll
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\bin\Debug\Domain.Test.pdb
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\bin\Debug\Domain.dll
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\bin\Debug\nunit.framework.dll
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\bin\Debug\Domain.pdb
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\bin\Debug\nunit.framework.xml
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\obj\Debug\Domain.Test.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\obj\Debug\Domain.Test.dll
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain.Test\obj\Debug\Domain.Test.pdb

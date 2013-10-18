@@ -1,0 +1,5 @@
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain\bin\Debug\Domain.dll
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain\bin\Debug\Domain.pdb
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain\obj\Debug\Domain.dll
+C:\VisualStudio\Projects\FizzBuzzKata\FizzBuzz.Solution\Domain\obj\Debug\Domain.pdb
